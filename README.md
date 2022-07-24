@@ -1,6 +1,6 @@
 # Remove Background Project
 
-This script removes the background of images. 
+This script removes the background of input images.
 
 @danielgatis ' s rembg library is used. https://github.com/danielgatis/rembg 
 
